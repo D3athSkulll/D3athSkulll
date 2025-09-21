@@ -1,12 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shivam Deolankar</h1>
-<h3 align="center">I'm a passionate Full Stack Developer & Systems Programmer</h3>
+<div align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shivam Deolankar aka D3athSkulll</h1>
+</div>
+<div align="center">
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Systems+Programming+Enthusiast;Rustacean;Systems+Programmer;Graphic+Designer" alt="Typing SVG" />
+</div>
 
 # 💫 About Me
-<br>🌱 Currently immersing myself in advanced web technologies and diving deep into <b>Rust</b> and <b>systems programming</b>
+<div align="center">
+🌱 Currently immersing myself in advanced web technologies and diving deep into <b>Rust</b> and <b>systems programming</b>
 <br>⚡ Fascinated by building efficient, reliable backend systems, exploring distributed architectures, and low-level programming
 <br>🔥 Actively expanding my skills in backend development, performance optimization, and modern software design
 <br>👯 Eager to collaborate on Open Source Projects and connect with developers passionate about systems and infrastructure
 <br>📫 Reach out to me at my Email: <b>shivam.deolankar@gmail.com</b>
+</div>
+
+
 
 # 💻 Tech Stack
 <div align="center">
@@ -34,7 +42,7 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </div>
 
-## 🌐 Socials
+# 🌐 Socials
 <p align="center">
   <a href="https://discord.gg/d3athskulll">
     <img src="https://img.shields.io/badge/Discord-D3athSkulll%236931-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />

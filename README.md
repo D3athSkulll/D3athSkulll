@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me
-<div align="center">
+<div >
 🌱 Currently immersing myself in advanced web technologies and diving deep into <b>Rust</b> and <b>systems programming</b>
 <br>⚡ Fascinated by building efficient, reliable backend systems, exploring distributed architectures, and low-level programming
 <br>🔥 Actively expanding my skills in backend development, performance optimization, and modern software design

@@ -33,7 +33,7 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://discord.com/users/D3athSkulll#6931">
+  <a href="https://discord.gg/d3athskulll">
     <img src="https://img.shields.io/badge/Discord-D3athSkulll%236931-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/shivamdeolankar2211/">

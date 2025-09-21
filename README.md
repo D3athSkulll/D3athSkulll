@@ -29,6 +29,9 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/coreldraw-%2300B388.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
+    <img src="https://img.shields.io/badge/EndeavourOS-5c5c5c?style=for-the-badge&logo=endeavouros&logoColor=white" alt="EndeavourOS" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </div>
 
 ## 🌐 Socials

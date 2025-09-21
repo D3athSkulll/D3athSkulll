@@ -11,7 +11,7 @@
 <br>⚡ Fascinated by building efficient, reliable backend systems, exploring distributed architectures, and low-level programming
 <br>🔥 Actively expanding my skills in backend development, performance optimization, and modern software design
 <br>👯 Eager to collaborate on Open Source Projects and connect with developers passionate about systems and infrastructure
-<br>📫 Reach out to me at my Email: <b>shivam.deolankar@gmail.com</b>
+<br>📫 Reach out to me at my Email: <b><a href="mailto:shivam.deolankar@gmail.com?subject=Hello%20Shivam%20%F0%9F%91%8B">shivam.deolankar@gmail.com</a></b>
 </div>
 
 

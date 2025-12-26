@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shivam Deolankar aka D3athSkulll</h1>
 </div>
 <div align="center">
- <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Rustacean;Systems+Programmer;Graphic+Designer;Linux+Enthusiast;Product+Designer;UI/UX+Designer;Product+Manager" alt="Typing SVG" />
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=50&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Rustacean;Systems+Programmer;Graphic+Designer;Linux+Enthusiast;Product+Designer;UI/UX+Designer;Product+Manager" alt="Typing SVG" />
 </div>
 
 # 💫 About Me

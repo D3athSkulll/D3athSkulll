@@ -2,17 +2,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shivam Deolankar aka D3athSkulll</h1>
 </div>
 <div align="center">
- <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Rustacean;Systems+Programmer;Graphic+Designer;Linux+Enthusiast" alt="Typing SVG" />
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Rustacean;Systems+Programmer;Graphic+Designer;Linux+Enthusiast;Product+Designer;UI/UX+Designer;Product+Manager" alt="Typing SVG" />
 </div>
 
 # 💫 About Me
-<div >
-🌱 Currently immersing myself in advanced web technologies and diving deep into <b>Rust</b> and <b>systems programming</b>
-<br>⚡ Fascinated by building efficient, reliable backend systems, exploring distributed architectures, and low-level programming
-<br>🔥 Actively expanding my skills in backend development, performance optimization, and modern software design
-<br>👯 Eager to collaborate on Open Source Projects and connect with developers passionate about systems and infrastructure
-<br>📫 Reach out to me at my Email: <b><a href="mailto:shivam.deolankar@gmail.com?subject=Hello%20Shivam%20%F0%9F%91%8B">shivam.deolankar@gmail.com</a></b>
+<div>
+🚀 Full Stack Developer with a strong focus on <b>Rust</b>, <b>systems programming</b>, and scalable backend architectures  
+<br>🦀 Rustacean passionate about writing safe, high-performance code and exploring low-level system design  
+<br>⚙️ Systems Programmer interested in operating systems, distributed systems, and performance optimization  
+<br>🎨 Graphic & UI/UX Designer crafting intuitive, aesthetic, and user-centric digital experiences  
+<br>🐧 Linux Enthusiast who enjoys working close to the system and customizing workflows for productivity  
+<br>📦 Product Designer & Manager driven by problem-solving, user empathy, and building impactful products  
+<br>🤝 Open to collaborating on <b>Open Source</b> projects across systems, infrastructure, and design-driven software  
+<br>📫 Reach out to me at: <b><a href="mailto:shivam.deolankar@gmail.com?subject=Hello%20Shivam%20%F0%9F%91%8B">shivam.deolankar@gmail.com</a></b>
 </div>
+
 
 
 

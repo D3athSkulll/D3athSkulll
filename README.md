@@ -9,10 +9,8 @@
 <div>
 🚀 Full Stack Developer with a strong focus on <b>Rust</b>, <b>systems programming</b>, and scalable backend architectures  
 <br>🦀 Rustacean passionate about writing safe, high-performance code and exploring low-level system design  
-<br>⚙️ Systems Programmer interested in operating systems, distributed systems, and performance optimization  
-<br>🎨 Graphic & UI/UX Designer crafting intuitive, aesthetic, and user-centric digital experiences  
+<br>⚙️ Systems Programmer interested in operating systems, safety critical code, and performance optimization    
 <br>🐧 Linux Enthusiast who enjoys working close to the system and customizing workflows for productivity  
-<br>📦 Product Designer & Manager driven by problem-solving, user empathy, and building impactful products  
 <br>🤝 Open to collaborating on <b>Open Source</b> projects across systems, infrastructure, and design-driven software  
 <br>📫 Reach out to me at: <b><a href="mailto:shivam.deolankar@gmail.com?subject=Hello%20Shivam%20%F0%9F%91%8B">shivam.deolankar@gmail.com</a></b>
 </div>

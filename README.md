@@ -7,7 +7,7 @@
 
 # 💫 About Me
 <div>
-🚀 Full Stack Developer with a strong focus on <b>Rust</b>, <b>systems programming</b>, and scalable backend architectures  
+🚀 Software Engineer with a strong focus on <b>Rust</b>, <b>systems programming</b>, and scalable backend architectures  
 <br>🦀 Rustacean passionate about writing safe, high-performance code and exploring low-level system design  
 <br>⚙️ Systems Programmer interested in operating systems, safety critical code, and performance optimization    
 <br>🐧 Linux Enthusiast who enjoys working close to the system and customizing workflows for productivity  
